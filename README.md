@@ -9,4 +9,5 @@ Link: https://github.com/JorgeTrujillo97/Pharmacy-Expense-Projections-with-Machi
 **Jorge Hernán Trujillo Sánchez**
 
 *[LinkedIn] ( https://www.linkedin.com/in/jorgetrujillo97 )
+
 *[Github] ( https://github.com/JorgeTrujillo97 )
